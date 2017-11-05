@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: cbbfa8d54d731134ea7d39d26a70c2af
+timeCreated: 1508678028
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Adreena Script Demo
+  fontNames:
+  - Adreena Script Demo
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 48428c741fccbd44493540cf1f700516, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

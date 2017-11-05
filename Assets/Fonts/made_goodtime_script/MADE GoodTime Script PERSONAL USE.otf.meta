@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f43a7c1a4dd292c44a5f0b08201c9429
+timeCreated: 1508678028
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: MADE GoodTime Script
+  fontNames:
+  - MADE GoodTime Script
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
